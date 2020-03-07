@@ -6,7 +6,7 @@ and keep sending up, right, down, and left keystrokes to automatically play the 
 Note program requires two installations:
 (1) The Selenium module. I installed it using pip: https://pypi.org/
 (2) WebDriver for Chrome that can be found here: https://chromedriver.chromium.org/home
-I am curious if will run as is with a driver for another browser.
+I am curious if it will run as is with a driver for another browser.
 
 Here as some interesting ideas for extending this program:
 
