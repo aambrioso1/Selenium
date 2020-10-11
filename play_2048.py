@@ -8,10 +8,10 @@ Note program requires two installations:
 (2) WebDriver for Chrome that can be found here: https://chromedriver.chromium.org/home
 I am curious if it will run as is with a driver for another browser.
 
-Here as some interesting ideas for extending this program:
+Here are some interesting ideas for extending this program:
 
 (1)  Play until no further moves are possible.   Checking for game over after each move.
-(2)  Retrieve final score date.
+(2)  Retrieve final score data.
 (3)  Play multiple games in succession.
 (4)  My daughter claims that you can score higher by eliminating one of the movements.   For example never
 cursor dowm.   Use the program to generate data to check this claim.
